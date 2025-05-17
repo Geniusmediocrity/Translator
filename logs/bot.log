@@ -33,3 +33,18 @@ client_session: <aiohttp.client.ClientSession object at 0x7f6584d31fd0>
 2025-05-17 19:25:33,064 - ERROR - asyncio - Unclosed connector
 connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f658518fbf0>, 847.74695649)])']
 connector: <aiohttp.connector.TCPConnector object at 0x7f6584d31be0>
+2025-05-17 19:55:06,078 - ERROR - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f9cf8459fd0>
+2025-05-17 19:55:06,080 - ERROR - asyncio - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f9cf8427bf0>, 72.481441144)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f9cf8459be0>
+2025-05-17 19:56:28,042 - ERROR - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f7a7ef65fd0>
+2025-05-17 19:56:28,042 - ERROR - asyncio - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f7a7ef2fbf0>, 158.109515623)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f7a7ef65be0>
+2025-05-17 20:03:51,611 - ERROR - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f4af9a8dfd0>
+2025-05-17 20:03:51,612 - ERROR - asyncio - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f4af9a98ef0>, 637.988741621)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f4af9a8dbe0>
